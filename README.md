@@ -15,7 +15,7 @@ Also, implementing them, on both software and hardware, is something I'm really 
 
 ### Personal Accomplishments ✅
 
-- Contributor at [@pytorch][pytorch]. My favorite Machine Learning framework. 
+- Contributor at my favorite Machine Learning framework, [@pytorch][pytorch]. :grin:
 - Graduated from Faculty of Engineering at University of Buenos Aires as an EE. 👨🏻‍🎓
 
 ### Ongoing work 👨🏻‍🏭
