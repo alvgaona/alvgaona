@@ -1,6 +1,6 @@
 ### Hey there, I'm Alvaro! 👋
 
-I'm an Electronics Engineer (EE) graduated at the University of Buenos Aires in Argentina 🇦🇷, and I'm currently working as a Senior Software Engineer at [@Roche][Roche].
+I'm an Electronics Engineer (EE) graduated at the University of Buenos Aires in Argentina, and I'm currently working as a Senior Software Engineer at [@Roche][Roche].
 
 ### Interests 🤓
 
@@ -20,7 +20,7 @@ Also, implementing them, on both software and hardware, is something I'm really 
 
 ### Ongoing work 👨🏻‍🏭
 
-- Pursuing my PhD in Robotics and Control Systems at University of Buenos Aires.
+- Pursuing my PhD in Robotics and Control Theory at University of Buenos Aires.
 
 ### How to reach me 📫
 
