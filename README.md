@@ -13,7 +13,7 @@ I'm passionate about algorithms. Mainly, in fields such as:
 
 Also, implementing them, on both software and hardware, is something I'm really keen on and I'm always looking to improve myself on that.
 
-### Personal Accomplishments ✅
+### Personal Achievements ✅
 
 - Contributor at my favorite Machine Learning framework, [@pytorch][pytorch]. :grin:
 - Graduated from Faculty of Engineering at University of Buenos Aires as an EE. 👨🏻‍🎓
