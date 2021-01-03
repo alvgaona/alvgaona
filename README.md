@@ -20,7 +20,7 @@ Also, implementing them, on both software and hardware, is something I'm really 
 
 ### Ongoing work 👨🏻‍🏭
 
-- Working on multi-agent systems control at University of Buenos Aires.
+- Working on multi-agent systems at the University of Buenos Aires.
 
 ### How to reach me 📫
 
