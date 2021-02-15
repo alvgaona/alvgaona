@@ -10,6 +10,7 @@ I'm passionate about algorithms. Mainly, in fields such as:
 - Autonomous Systems :rocket:
 - Robotics :robot:
 - Signal Processing :sparkles:
+- Machine Learning :bulb:
 
 Also, implementing them, on both software and hardware, is something I'm really keen on and I'm always looking to improve myself on that.
 
