@@ -1,6 +1,6 @@
 ### Hey there, I'm Alvaro! 👋
 
-I'm an Electronics Engineer (EE) graduated at the University of Buenos Aires in Argentina, and I'm currently working as a Senior Software Engineer at [@Roche][Roche].
+I'm an Electronics Engineer (EE) graduated at the University of Buenos Aires in Argentina, and I'm currently working as a Senior Software Engineer at [@Roche][Roche]. Also, you can download my résumé [here][resume] 👈
 
 ### Interests 🤓
 
@@ -36,3 +36,4 @@ Also, implementing them, on both software and hardware, is something I'm really 
 [goodreads]: https://www.goodreads.com/alvgaona
 [Roche]: https://github.com/Roche
 [pytorch]: https://github.com/pytorch
+[resume]: https://storage.googleapis.com/ag-7e734afe-7ed4-4d0f-98d3-0023e2826753/cv/resume.pdf
