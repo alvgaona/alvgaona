@@ -1,6 +1,6 @@
 ### Hey there, I'm Alvaro! 👋
 
-I'm an Electronics Engineer (EE) graduated at the University of Buenos Aires in Argentina, and I'm currently working as a Senior Software Engineer at [@Roche][Roche]. Also, you can download my résumé [here][resume] 👈
+I'm an Electronics Engineer (EE) graduated at the University of Buenos Aires in Argentina, and I'm currently working as a Senior Software Engineer at [@Roche][Roche]. Also, you can download my résumé [here][resume]. 👈
 
 ### Interests 🤓
 
