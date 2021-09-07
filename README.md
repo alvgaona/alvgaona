@@ -21,7 +21,7 @@ Also, implementing them, on both software and firmware, is something I'm really 
 
 ### Ongoing work 👨🏻‍🏭
 
-- Working on multi-agent systems and autonomous air vehciles at the University of San Andrés.
+- Working on multi-agent systems and autonomous air vehicles at the University of San Andrés.
 
 ### How to reach me 📫
 
