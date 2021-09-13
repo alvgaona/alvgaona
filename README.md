@@ -28,7 +28,7 @@ Also, implementing them, on both software and firmware, is something I'm really 
 [<img align="left" alt="alvgaona | Twitter" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" alt="alvgaona | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />][linkedin]
 [<img align="left" alt="alvgaona | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />][instagram]
-[<img align="left" alt="alvgaona | Goodreads" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111297.svg" />][goodreads]
+[<img align="left" alt="alvgaona | Goodreads" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111297.png" />][goodreads]
 
 [twitter]: https://twitter.com/alvgaona
 [instagram]: https://instagram.com/alvgaona
