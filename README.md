@@ -18,10 +18,12 @@ Also, implementing them, on both software and firmware, is something I'm really 
 
 - Contributor at my favorite Machine Learning framework, [@pytorch][pytorch]. :grin:
 - Graduated from School of Engineering at University of Buenos Aires as an EE. 👨🏻‍🎓
+- Member of the Laboratory of Artificial Intelligence and Robotics at University of San Andrés.
 
 ### Ongoing work 👨🏻‍🏭
 
-- Working on multi-agent systems and autonomous air vehicles at the University of San Andrés.
+- Doing research on autonomous driving algorithms.
+- Research on multi-rotor air vehicles, such as autonomous landing behavior and fault tolerance/detection.
 
 ### How to reach me 📫
 
