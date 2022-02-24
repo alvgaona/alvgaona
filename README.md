@@ -8,7 +8,7 @@ I'm passionate about algorithms. Mainly, in fields such as:
 
 - Control Theory :gear:
 - Aerospace :rocket:
-- Automotive :racing_ca:
+- Automotive :racing_car:
 - Autonomous Systems :space_invader:
 - Robotics :robot:
 - Signal Processing :sparkles:
