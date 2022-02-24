@@ -19,7 +19,7 @@ Also, implementing them, on both software and firmware, is something I'm really 
 ### Personal Achievements ✅
 
 - Contributor at my favorite Machine Learning framework, [@pytorch][pytorch]. :grin:
-- Graduated from School of Engineering at University of Buenos Aires as an EE. 👨🏻‍🎓
+- Graduated from Faculty of Engineering at University of Buenos Aires as an EE. 👨🏻‍🎓
 - Member of the Laboratory of Artificial Intelligence and Robotics at University of San Andrés.
 
 ### Ongoing work 👨🏻‍🏭
