@@ -6,11 +6,8 @@ I'm an Electronics Engineer (EE) graduated at the University of Buenos Aires in 
 
 I'm passionate about algorithms. Mainly, in fields such as:
 
-- Control Theory :gear:
-- Aerospace :rocket:
-- Automotive :racing_car:
+- Computer Science :desktop_computer:
 - Autonomous Systems :space_invader:
-- Robotics :robot:
 - Signal Processing :sparkles:
 - Machine Learning :bulb:
 
