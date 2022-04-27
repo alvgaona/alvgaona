@@ -10,6 +10,7 @@ I'm passionate about algorithms. Mainly, in fields such as:
 - Autonomous Systems :space_invader:
 - Signal Processing :sparkles:
 - Machine Learning :bulb:
+- Natural Language Processing :speaking_head:
 
 Also, implementing them, on both software and firmware, is something I'm really keen on and I'm always looking to improve myself on that.
 
