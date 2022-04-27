@@ -20,11 +20,6 @@ Also, implementing them, on both software and firmware, is something I'm really 
 - Graduated from Faculty of Engineering at University of Buenos Aires as an EE. 👨🏻‍🎓
 - Member of the Laboratory of Artificial Intelligence and Robotics at University of San Andrés.
 
-### Ongoing work 👨🏻‍🏭
-
-- Doing research on autonomous driving algorithms.
-- Research on multi-rotor air vehicles, such as autonomous landing behavior and fault tolerance/detection.
-
 ### How to reach me 📫
 
 [<img align="left" alt="alvgaona | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
