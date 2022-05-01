@@ -13,8 +13,6 @@ I'm passionate about algorithms. Mainly, in fields such as:
 - Natural Language Processing :speaking_head:
 - Cloud Computing :cloud:
 
-Also, implementing them, on both software and firmware, is something I'm really keen on and I'm always looking to improve myself on that.
-
 ### Personal Achievements ✅
 
 - Graduated from Faculty of Engineering at University of Buenos Aires as an EE. 👨🏻‍🎓
