@@ -11,14 +11,19 @@ I'm passionate about algorithms. Mainly, in fields such as:
 - Signal Processing :sparkles:
 - Machine Learning :bulb:
 - Natural Language Processing :speaking_head:
+- Cloud Computing :cloud:
 
 Also, implementing them, on both software and firmware, is something I'm really keen on and I'm always looking to improve myself on that.
 
 ### Personal Achievements ✅
 
-- Contributor at my favorite Machine Learning framework, [@pytorch][pytorch]. :grin:
 - Graduated from Faculty of Engineering at University of Buenos Aires as an EE. 👨🏻‍🎓
+- Contributor at my favorite Machine Learning framework, [@pytorch][pytorch]. :grin:
 - Member of the Laboratory of Artificial Intelligence and Robotics at University of San Andrés.
+
+### Certifications
+
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/f436421c-4003-4414-ab0c-fb048eb6b76d?source=linked_in_profile)
 
 ### How to reach me 📫
 
