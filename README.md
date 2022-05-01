@@ -7,7 +7,7 @@ I'm an Electronics Engineer (EE) graduated at the University of Buenos Aires in 
 I'm passionate about algorithms. Mainly, in fields such as:
 
 - Computer Science :desktop_computer:
-- Autonomous Systems :space_invader:
+- Computer Vision :eye:
 - Signal Processing :sparkles:
 - Machine Learning :bulb:
 - Natural Language Processing :speaking_head:
