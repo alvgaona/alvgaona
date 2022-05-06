@@ -1,6 +1,6 @@
 ### Hey there, I'm Alvaro! 👋
 
-I'm an Electronics Engineer (EE) graduated at the University of Buenos Aires in Argentina, and I'm currently working as a Researcher at [University of San Andres][udesa] in the [Artificial Intelligence and Robotics Laboratory][LINAR], and as a Senior Software Engineer at [@Roche](https://github.com/Roche); you can download my résumé [here][resume]. 👈
+I'm an Electronics Engineer (EE) graduated at the University of Buenos Aires in Argentina, and I'm currently working as a Researcher at [University of San Andres][udesa] in the [Artificial Intelligence and Robotics Laboratory][LINAR], and as a Senior Software Engineer at [@Roche](https://github.com/Roche).
 
 ### Interests 🤓
 
@@ -34,5 +34,4 @@ I'm passionate about algorithms. Mainly, in fields such as:
 [goodreads]: https://www.goodreads.com/alvgaona
 [udesa]: https://udesa.edu.ar/
 [pytorch]: https://github.com/pytorch
-[resume]: https://storage.googleapis.com/ag-7e734afe-7ed4-4d0f-98d3-0023e2826753/cv/resume.pdf
 [LINAR]: https://github.com/udesa-ai
