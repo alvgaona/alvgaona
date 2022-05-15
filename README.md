@@ -4,14 +4,12 @@ I'm an Electronics Engineer (EE) graduated at the University of Buenos Aires in 
 
 ### Interests 🤓
 
-I'm passionate about algorithms. Mainly, in fields such as:
-
+- Distributed Systems :sparkles:
 - Computer Science :desktop_computer:
-- Computer Vision :eye:
-- Signal Processing :sparkles:
+- Cloud Computing :cloud:
 - Machine Learning :bulb:
 - Natural Language Processing :speaking_head:
-- Cloud Computing :cloud:
+- Computer Vision :eye:
 
 ### Personal Achievements ✅
 
