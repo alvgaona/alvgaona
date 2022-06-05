@@ -1,6 +1,6 @@
 ### Hey there, I'm Alvaro! 👋
 
-I'm an Electronics Engineer (EE) graduated at the University of Buenos Aires in Argentina, and I'm currently working as a Researcher at [University of San Andres][udesa] in the [Artificial Intelligence and Robotics Laboratory][LINAR], and as a Senior Software Engineer at [@Roche](https://github.com/Roche).
+I'm an Electronics Engineer (EE) graduated from University of Buenos Aires in Argentina, and I'm currently working as a Researcher at [University of San Andres][udesa] in the [Artificial Intelligence and Robotics Laboratory][LINAR], and as a Senior Software Engineer at [@Roche](https://github.com/Roche).
 
 ### Interests 🤓
 
