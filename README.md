@@ -1,15 +1,14 @@
 ### Hey there, I'm Alvaro! 👋
 
-I'm an Electrical Engineer (EE) graduated from University of Buenos Aires in Argentina, and I'm currently working as a Lead Software Engineer at [ASAPP](https://www.asapp.com/).
+I'm an Electrical Engineer (EE) graduated from University of Buenos Aires in Argentina, and I'm currently working as a Software Engineer in AI companies.
 
 ### Interests 🤓
 
-- Distributed Systems :sparkles:
 - Computer Science :desktop_computer:
-- Cloud Computing :cloud:
 - Machine Learning :bulb:
-- Natural Language Processing :speaking_head:
 - Computer Vision :eye:
+- Aerodynamics :wind_face:
+- Autonomous Systems :robot:
 
 ### Personal Achievements ✅
 
