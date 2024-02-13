@@ -1,6 +1,6 @@
 ### Hey there, I'm Alvaro! 👋
 
-I'm an Electrical Engineer (EE) graduated from the University of Buenos Aires in Argentina, and I'm currently working as a Software Developer.
+I'm an Electronics Engineer (EE) who graduated from the University of Buenos Aires in Argentina, and I'm currently working as a Software Developer.
 
 ### Interests 🤓
 
