@@ -1,22 +1,22 @@
-### Hey there, I'm Alvaro! 👋
+### Hello, I'm Alvaro! 👋
 
-I'm an Electronics Engineer (EE) who graduated from the University of Buenos Aires in Argentina, and I'm currently working as a Software Developer.
+I'm an Electronics Engineer from the University of Buenos Aires, Argentina, currently working as Software Engineer.
 
-### Interests 🤓
+### Areas of Interest 🤓
 
-- Autonomous Systems :robot:
-- Computer Vision :eye:
-- Computer Science :desktop_computer:
-- Aerodynamics :wind_face:
-- Artificial Intelligence :bulb:
+- Autonomous Systems & Robotics :robot:
+- Advanced Computer Vision :eye:
+- Computer Science & Software Engineering :desktop_computer:
+- Aerodynamics & Fluid Dynamics :wind_face:
+- Artificial Intelligence & Machine Learning :bulb:
 
-### Personal Achievements ✅
+### Key Achievements ✅
 
-- Graduated from the [Faculty of Engineering at the University of Buenos Aires][FIUBA] as an EE. 👨🏻‍🎓
-- Contributor at my favorite Machine Learning framework, [@pytorch][pytorch]. :grin:
-- Ex-staff of the [Laboratory of Artificial Intelligence and Robotics at the University of San Andrés][LINAR].
+- Earned my Electronics Engineering degree from the prestigious [Faculty of Engineering at the University of Buenos Aires][FIUBA] 👨🏻‍🎓
+- Active contributor to [PyTorch][pytorch], one of the world's leading Machine Learning frameworks :grin:
+- Former researcher at the [Laboratory of Artificial Intelligence and Robotics (LINAR) at the University of San Andrés][LINAR]
 
-### How to reach me 📫
+### Let's Connect! 📫
 
 [<img align="left" alt="alvgaona | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/>][twitter]
 [<img align="left" alt="alvgaona | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
