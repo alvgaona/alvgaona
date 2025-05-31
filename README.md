@@ -13,7 +13,7 @@ I'm an Electronics Engineer from the University of Buenos Aires, Argentina, curr
 ### Key Achievements ✅
 
 - Earned my Electronics Engineering degree from the prestigious [Faculty of Engineering at the University of Buenos Aires][FIUBA] 👨🏻‍🎓
-- Active contributor to [PyTorch][pytorch], one of the world's leading Machine Learning frameworks :grin:
+- Contributor to [PyTorch][pytorch], one of the world's leading Machine Learning frameworks :grin:
 - Former researcher at the [Laboratory of Artificial Intelligence and Robotics (LINAR) at the University of San Andrés][LINAR]
 
 ### Let's Connect! 📫
