@@ -19,13 +19,15 @@ I'm an Electronics Engineer from the University of Buenos Aires, Argentina, curr
 
 ### Let's Connect! 📫
 
-[<img align="left" alt="alvgaona | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/>][twitter]
-[<img align="left" alt="alvgaona | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
-[<img align="left" alt="alvgaona | Goodreads" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111297.png"/>][goodreads]
 
-[twitter]: https://twitter.com/alvgaona
+
+[<img align="left" alt="alvgaona | X" width="22px" src="https://abs.twimg.com/favicons/twitter.3.ico"/>][x]
+[<img align="left" alt="alvgaona | LinkedIn" width="22px" src="https://static.licdn.com/aero-v1/sc/h/8s162nmbcnfkg7a0k8nq9wwqo"/>][linkedin]
+[<img align="left" alt="alvgaona | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"/>][instagram]
+
+[x]: https://x.com/alvgaona
 [linkedin]: https://linkedin.com/in/alvaro-gaona
-[goodreads]: https://www.goodreads.com/alvgaona
+[instagram]: https://www.instagram.com/alvgaona
 [pytorch]: https://github.com/pytorch
 [LINAR]: https://udesa.edu.ar/linar
 [FIUBA]: https://www.fi.uba.ar/
