@@ -5,6 +5,7 @@ I'm an Electronics Engineer from the University of Buenos Aires, Argentina, curr
 ### Areas of Interest 🤓
 
 - Autonomous Systems & Robotics :robot:
+- Hardware Engineering :battery:
 - Advanced Computer Vision :eye:
 - Computer Science & Software Engineering :desktop_computer:
 - Aerodynamics & Fluid Dynamics :wind_face:
